@@ -9,8 +9,8 @@ import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 
 import "src/foo"
-//import "src/home"
-//import "src/news"
+import "src/home"
+import "src/news"
 
 Rails.start()
 Turbolinks.start()
